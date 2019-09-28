@@ -1,0 +1,10 @@
+20:11:24 **** Incremental Build of configuration Debug for project Prototyp1.0 ****
+make -j8 all 
+arm-none-eabi-size   Prototyp1.0.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17588	     20	   1844	  19452	   4bfc	Prototyp1.0.elf
+Finished building: default.size.stdout
+ 
+
+20:11:25 Build Finished. 0 errors, 0 warnings. (took 1s.222ms)
+

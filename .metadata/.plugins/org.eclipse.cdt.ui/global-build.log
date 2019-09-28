@@ -1,0 +1,21 @@
+20:11:17 **** Incremental Build of configuration Debug for project Prototyp1.0 ****
+make -j8 all 
+arm-none-eabi-gcc "../Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DUSE_HAL_DRIVER -DSTM32F103xB -DDEBUG -c -I../Inc -IC:/Users/adfil/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.0/Drivers/STM32F1xx_HAL_Driver/Inc -IC:/Users/adfil/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.0/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -IC:/Users/adfil/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.0/Drivers/CMSIS/Device/ST/STM32F1xx/Include -IC:/Users/adfil/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.0/Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Src/main.d" -MT"Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/main.o"
+arm-none-eabi-gcc -o "Prototyp1.0.elf" @"objects.list"   -mcpu=cortex-m3 -T"C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\STM32F103RBTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Prototyp1.0.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: Prototyp1.0.elf
+ 
+arm-none-eabi-objdump -h -S  Prototyp1.0.elf  > "Prototyp1.0.list"
+arm-none-eabi-size   Prototyp1.0.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17588	     20	   1844	  19452	   4bfc	Prototyp1.0.elf
+Finished building: default.size.stdout
+ 
+Finished building: Prototyp1.0.list
+ 
+20:11:24 **** Incremental Build of configuration Debug for project Prototyp1.0 ****
+make -j8 all 
+arm-none-eabi-size   Prototyp1.0.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17588	     20	   1844	  19452	   4bfc	Prototyp1.0.elf
+Finished building: default.size.stdout
+ 

@@ -581,3 +581,952 @@
 2019-09-28 15:02:49,742 [INFO] BlockDiagram:1818 - stop enableDisableButtons
 2019-09-28 15:03:12,900 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Tab changed to: Clock Configuration
 2019-09-28 15:03:43,895 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 15:04:05,184 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Tab changed to: Project Manager
+2019-09-28 15:04:07,845 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Tab changed to: Tools
+2019-09-28 15:04:11,172 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Tab changed to: Pinout & Configuration
+2019-09-28 15:04:20,250 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 15:04:22,692 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 15:04:33,974 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 15:04:38,881 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 15:04:52,721 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 516915576 Bytes (1073741824)
+2019-09-28 15:04:52,729 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 15:04:52,731 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 15:04:52,754 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 15:04:52,754 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 15:04:52,754 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 15:04:52,803 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 15:04:56,251 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 523582808 Bytes (1073741824)
+2019-09-28 15:04:56,255 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 15:04:56,256 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 15:04:56,259 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 15:04:56,261 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 15:04:56,262 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 15:04:56,262 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 15:04:56,548 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: NVIC
+2019-09-28 15:04:56,548 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: USART
+2019-09-28 15:04:56,548 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: SYS
+2019-09-28 15:04:56,549 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: RCC
+2019-09-28 15:04:56,551 [INFO] CodeGenerator:583 - code generatio: config db path: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\
+2019-09-28 15:04:56,812 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\MXTmpFiles\license.tmp_save
+2019-09-28 15:04:56,970 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\MXTmpFiles\license.tmp
+2019-09-28 15:04:57,009 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\MXTmpFiles\gpio.tmp_save
+2019-09-28 15:04:57,182 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\MXTmpFiles\gpio.tmp
+2019-09-28 15:04:57,235 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-09-28 15:04:57,236 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2019-09-28 15:04:57,236 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-09-28 15:04:57,236 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-09-28 15:04:57,243 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2019-09-28 15:04:57,243 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-09-28 15:04:57,248 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2019-09-28 15:04:57,249 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-09-28 15:04:57,262 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Src\stm32f1xx_it.c_save
+2019-09-28 15:04:57,457 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Src\stm32f1xx_it.c
+2019-09-28 15:04:57,488 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Inc\stm32f1xx_it.h_save
+2019-09-28 15:04:57,649 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Inc\stm32f1xx_it.h
+2019-09-28 15:04:57,664 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Src\stm32f1xx_hal_msp.c_save
+2019-09-28 15:04:57,909 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Src\stm32f1xx_hal_msp.c
+2019-09-28 15:04:57,922 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\MXTmpFiles\system.tmp_save
+2019-09-28 15:04:58,031 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\MXTmpFiles\system.tmp
+2019-09-28 15:04:58,053 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Inc\stm32f1xx_hal_conf.h_save
+2019-09-28 15:04:58,219 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Inc\stm32f1xx_hal_conf.h
+2019-09-28 15:04:58,234 [WARN] IPConfigManager:2562 - IP not found : gpio
+2019-09-28 15:04:58,238 [WARN] CodeGenerator:2617 - IP not found : gpio
+2019-09-28 15:04:58,255 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Inc\main.h_save
+2019-09-28 15:04:58,385 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Inc\main.h
+2019-09-28 15:04:58,400 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Src\main.c_save
+2019-09-28 15:04:58,572 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Src\main.c
+2019-09-28 15:04:59,147 [INFO] ProjectBuilder:1570 - Time for Copy HAL[2] : 1mS.
+2019-09-28 15:04:59,150 [INFO] ProjectBuilder:2138 - Project Generator version: 3.4.0
+2019-09-28 15:05:00,552 [INFO] ConfigFileManager:879 - The Die is : DIE410
+2019-09-28 15:05:00,556 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] configName ==Arm Cortex-M3
+2019-09-28 15:05:00,808 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="RAM" access="xrw" start="0x20000000" size="20"
+2019-09-28 15:05:00,812 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="FLASH" access="rx" start="0x8000000" size="128"
+2019-09-28 15:05:01,169 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] namefile= STM32CubeIDE
+2019-09-28 15:05:01,173 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============update
+2019-09-28 15:05:02,401 [INFO] ProjectBuilder:2232 - Time for Generating toolchain IDE Files: 3251mS.
+2019-09-28 15:05:02,402 [INFO] ProjectBuilder:1461 - Time for Copy CMSIS : 0mS.
+2019-09-28 15:05:02,406 [INFO] ProjectBuilder:1461 - Time for Copy CMSIS : 0mS.
+2019-09-28 15:15:01,188 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:26:45,430 [INFO] Activator:176 - 
+
+
+2019-09-28 18:26:45,430 [INFO] Activator:177 - !SESSION log4j initialized
+2019-09-28 18:27:20,521 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903
+2019-09-28 18:27:20,536 [INFO] DbMcusXml:68 - Set database path to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/mcu/
+2019-09-28 18:27:20,552 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/plugins/boardmanager/
+2019-09-28 18:27:20,552 [INFO] DbMcus:264 - Set plugin images path to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/plugins/mcufinder/images/
+2019-09-28 18:27:20,552 [INFO] DbBoards:232 - Set plugin images path to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/plugins/mcufinder/images/
+2019-09-28 18:27:20,552 [INFO] APIGFXSelector:72 - Set database path to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/plugins/mcufinder/mcu/
+2019-09-28 18:27:20,568 [INFO] DbMcusAds:72 - Set database path to: C:\Users\adfil\.stmcufinder\plugins\mcufinder//mcu/
+2019-09-28 18:27:20,568 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\adfil\.stmcufinder\plugins\mcufinder//mcu/
+2019-09-28 18:27:20,583 [INFO] DbMcusJson:59 - Set database path to: C:\Users\adfil\.stmcufinder\plugins\mcufinder//mcu/
+2019-09-28 18:27:20,583 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\adfil\.stmcufinder\plugins\mcufinder//mcu/
+2019-09-28 18:27:20,583 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\adfil\.stmcufinder\plugins\mcufinder//mcu/
+2019-09-28 18:27:20,646 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\adfil\.stmcufinder\plugins\mcufinder//mcu/cs/
+2019-09-28 18:27:20,771 [INFO] RulesReader:52 - Compatibility file has been processed (156 Rules)
+2019-09-28 18:27:20,896 [INFO] MicroXplorer:521 - Detected Java Version = 1.8.0_202
+2019-09-28 18:27:20,896 [INFO] DbMcusXml:68 - Set database path to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/mcu/
+2019-09-28 18:27:20,896 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/plugins/boardmanager/
+2019-09-28 18:27:20,896 [INFO] DbMcus:264 - Set plugin images path to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/plugins/mcufinder/images/
+2019-09-28 18:27:20,896 [INFO] DbBoards:232 - Set plugin images path to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/plugins/mcufinder/images/
+2019-09-28 18:27:20,896 [INFO] APIGFXSelector:72 - Set database path to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/plugins/mcufinder/mcu/
+2019-09-28 18:27:20,896 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\adfil\.stmcufinder\plugins\mcufinder/ => C:\Users\adfil\.stmcufinder\plugins\mcufinder
+2019-09-28 18:27:20,896 [INFO] DbMcusAds:72 - Set database path to: C:\Users\adfil\.stmcufinder\plugins\mcufinder//mcu/
+2019-09-28 18:27:20,896 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\adfil\.stmcufinder\plugins\mcufinder/ => C:\Users\adfil\.stmcufinder\plugins\mcufinder
+2019-09-28 18:27:20,896 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\adfil\.stmcufinder\plugins\mcufinder//mcu/
+2019-09-28 18:27:20,896 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\adfil\.stmcufinder\plugins\mcufinder/ => C:\Users\adfil\.stmcufinder\plugins\mcufinder
+2019-09-28 18:27:20,896 [INFO] DbMcusJson:59 - Set database path to: C:\Users\adfil\.stmcufinder\plugins\mcufinder//mcu/
+2019-09-28 18:27:20,896 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\adfil\.stmcufinder\plugins\mcufinder/ => C:\Users\adfil\.stmcufinder\plugins\mcufinder
+2019-09-28 18:27:20,896 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\adfil\.stmcufinder\plugins\mcufinder//mcu/
+2019-09-28 18:27:20,896 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\adfil\.stmcufinder\plugins\mcufinder/ => C:\Users\adfil\.stmcufinder\plugins\mcufinder
+2019-09-28 18:27:20,896 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\adfil\.stmcufinder\plugins\mcufinder//mcu/
+2019-09-28 18:27:20,896 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\adfil\.stmcufinder\plugins\mcufinder/ => C:\Users\adfil\.stmcufinder\plugins\mcufinder
+2019-09-28 18:27:20,896 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\adfil\.stmcufinder\plugins\mcufinder/ => C:\Users\adfil\.stmcufinder\plugins\mcufinder
+2019-09-28 18:27:20,896 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\adfil\.stmcufinder\plugins\mcufinder//mcu/cs/
+2019-09-28 18:27:20,989 [INFO] MainPanel:211 - HeapMemory: 327155712
+2019-09-28 18:27:21,114 [INFO] DbMcusXml:68 - Set database path to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/mcu/
+2019-09-28 18:27:21,114 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/plugins/boardmanager/
+2019-09-28 18:27:21,114 [INFO] DbMcus:264 - Set plugin images path to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/plugins/mcufinder/images/
+2019-09-28 18:27:21,114 [INFO] DbBoards:232 - Set plugin images path to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/plugins/mcufinder/images/
+2019-09-28 18:27:21,114 [INFO] APIGFXSelector:72 - Set database path to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/plugins/mcufinder/mcu/
+2019-09-28 18:27:21,114 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\adfil\.stmcufinder\plugins\mcufinder/ => C:\Users\adfil\.stmcufinder\plugins\mcufinder
+2019-09-28 18:27:21,114 [INFO] DbMcusAds:72 - Set database path to: C:\Users\adfil\.stmcufinder\plugins\mcufinder//mcu/
+2019-09-28 18:27:21,114 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\adfil\.stmcufinder\plugins\mcufinder/ => C:\Users\adfil\.stmcufinder\plugins\mcufinder
+2019-09-28 18:27:21,114 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\adfil\.stmcufinder\plugins\mcufinder//mcu/
+2019-09-28 18:27:21,114 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\adfil\.stmcufinder\plugins\mcufinder/ => C:\Users\adfil\.stmcufinder\plugins\mcufinder
+2019-09-28 18:27:21,114 [INFO] DbMcusJson:59 - Set database path to: C:\Users\adfil\.stmcufinder\plugins\mcufinder//mcu/
+2019-09-28 18:27:21,114 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\adfil\.stmcufinder\plugins\mcufinder/ => C:\Users\adfil\.stmcufinder\plugins\mcufinder
+2019-09-28 18:27:21,114 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\adfil\.stmcufinder\plugins\mcufinder//mcu/
+2019-09-28 18:27:21,114 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\adfil\.stmcufinder\plugins\mcufinder/ => C:\Users\adfil\.stmcufinder\plugins\mcufinder
+2019-09-28 18:27:21,114 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\adfil\.stmcufinder\plugins\mcufinder//mcu/
+2019-09-28 18:27:21,114 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\adfil\.stmcufinder\plugins\mcufinder/ => C:\Users\adfil\.stmcufinder\plugins\mcufinder
+2019-09-28 18:27:21,114 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\adfil\.stmcufinder\plugins\mcufinder/ => C:\Users\adfil\.stmcufinder\plugins\mcufinder
+2019-09-28 18:27:21,114 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\adfil\.stmcufinder\plugins\mcufinder//mcu/cs/
+2019-09-28 18:27:21,130 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903
+2019-09-28 18:27:21,146 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=]
+2019-09-28 18:27:21,146 [INFO] PluginManage:292 - Check plugin analytics
+2019-09-28 18:27:21,146 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2019-09-28 18:27:21,146 [INFO] PluginManage:292 - Check plugin clock
+2019-09-28 18:27:21,161 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2019-09-28 18:27:21,161 [INFO] PluginManage:292 - Check plugin ddr
+2019-09-28 18:27:21,161 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2019-09-28 18:27:21,161 [INFO] PluginManage:292 - Check plugin filemanager
+2019-09-28 18:27:21,286 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2019-09-28 18:27:21,286 [INFO] PluginManage:292 - Check plugin ipmanager
+2019-09-28 18:27:21,302 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2019-09-28 18:27:21,302 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2019-09-28 18:27:21,302 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2019-09-28 18:27:21,302 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2019-09-28 18:27:21,333 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2019-09-28 18:27:21,333 [INFO] PluginManage:292 - Check plugin power
+2019-09-28 18:27:21,349 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2019-09-28 18:27:21,349 [INFO] PluginManage:292 - Check plugin projectmanager
+2019-09-28 18:27:21,364 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2019-09-28 18:27:21,364 [INFO] PluginManage:292 - Check plugin thirdparty
+2019-09-28 18:27:21,396 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (C:/Users/adfil/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 16 ms. number of Sw pack : 5
+2019-09-28 18:27:21,411 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2019-09-28 18:27:21,411 [INFO] PluginManage:292 - Check plugin tools
+2019-09-28 18:27:21,427 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2019-09-28 18:27:21,427 [INFO] PluginManage:292 - Check plugin updater
+2019-09-28 18:27:21,443 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2019-09-28 18:27:21,443 [INFO] PluginManage:265 - PluginManage : Loaded plugins [12]
+2019-09-28 18:27:21,646 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2019-09-28 18:27:21,739 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,739 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2019-09-28 18:27:21,739 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,739 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2019-09-28 18:27:21,755 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,755 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2019-09-28 18:27:21,755 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,755 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2019-09-28 18:27:21,755 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,755 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2019-09-28 18:27:21,771 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,771 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2019-09-28 18:27:21,771 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,771 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2019-09-28 18:27:21,771 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,771 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2019-09-28 18:27:21,786 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,786 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2019-09-28 18:27:21,786 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,786 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2019-09-28 18:27:21,786 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,786 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2019-09-28 18:27:21,802 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,802 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2019-09-28 18:27:21,802 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,802 [INFO] PluginManager:200 - loadIPPluginJar : add gfxsimulator
+2019-09-28 18:27:21,817 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,817 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2019-09-28 18:27:21,817 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,817 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2019-09-28 18:27:21,817 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,817 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2019-09-28 18:27:21,833 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,833 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2019-09-28 18:27:21,833 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,833 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2019-09-28 18:27:21,833 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,833 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2019-09-28 18:27:21,849 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,849 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2019-09-28 18:27:21,849 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,849 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2019-09-28 18:27:21,864 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,864 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2019-09-28 18:27:21,864 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,864 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2019-09-28 18:27:21,864 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,864 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2019-09-28 18:27:21,880 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,880 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2019-09-28 18:27:21,880 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,880 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2019-09-28 18:27:21,896 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,896 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2019-09-28 18:27:21,896 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,896 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2019-09-28 18:27:21,896 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,896 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2019-09-28 18:27:21,911 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,911 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2019-09-28 18:27:21,911 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,911 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2019-09-28 18:27:21,911 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,911 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2019-09-28 18:27:21,911 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,911 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2019-09-28 18:27:21,911 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,911 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2019-09-28 18:27:21,927 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,927 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2019-09-28 18:27:21,927 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,927 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2019-09-28 18:27:21,927 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:21,927 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2019-09-28 18:27:22,567 [INFO] BoardConnectionPanel:217 - [DDR PANEL] osNameString: Windows
+2019-09-28 18:27:22,915 [FATAL] Updater:277 - Updater called before beeing initialized
+2019-09-28 18:27:23,305 [FATAL] Updater:277 - Updater called before beeing initialized
+2019-09-28 18:27:23,321 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2019-09-28 18:27:23,321 [FATAL] Updater:277 - Updater called before beeing initialized
+2019-09-28 18:27:23,321 [INFO] MainDdrPanel:82 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.0.0.201904021149\tools\bin
+2019-09-28 18:27:23,337 [INFO] Updater:860 - Updater Version found : 5.3.0
+2019-09-28 18:27:23,352 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903
+2019-09-28 18:27:23,399 [INFO] MainUpdater:2040 - connection check result : 10
+2019-09-28 18:27:23,399 [INFO] MainUpdater:229 - Updater Check For Update Now.
+2019-09-28 18:27:23,399 [INFO] MicroXplorer:401 - Change Database Version : DB.5.0.30
+2019-09-28 18:27:23,430 [INFO] CheckServerUpdateThread:121 - End of CheckServer Thread
+2019-09-28 18:27:23,602 [INFO] MainUpdater:2040 - connection check result : 10
+2019-09-28 18:27:23,602 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2019-09-28 18:27:23,696 [INFO] MicroXplorer:371 - Change Database Path : 
+2019-09-28 18:27:23,696 [INFO] MicroXplorer:401 - Change Database Version : DB.5.0.30
+2019-09-28 18:27:23,696 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2019-09-28 18:27:23,696 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 236810984 Bytes (327155712)
+2019-09-28 18:27:23,696 [INFO] MicroXplorer:371 - Change Database Path : 
+2019-09-28 18:27:23,696 [INFO] MicroXplorer:401 - Change Database Version : DB.5.0.30
+2019-09-28 18:27:23,696 [INFO] OpenFileManager:269 - Change cursor
+2019-09-28 18:27:24,461 [INFO] ThirdPartyDb:264 - Close Third Party DataBase File (C:/Users/adfil/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2019-09-28 18:27:24,493 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (C:/Users/adfil/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 16 ms. number of Sw pack : 5
+2019-09-28 18:27:24,493 [INFO] ThirdPartyDb:264 - Close Third Party DataBase File (C:/Users/adfil/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2019-09-28 18:27:24,508 [INFO] IntegrityCheckThread:97 - End integrity checks thread
+2019-09-28 18:27:25,008 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Parameter (ADCFreqValue) has invalid value (32000000)
+2019-09-28 18:27:25,008 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (FamilyName)
+2019-09-28 18:27:25,024 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Parameter (MCOFreq_Value) has invalid value (64000000)
+2019-09-28 18:27:25,024 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Parameter (USBFreq_Value) has invalid value (64000000)
+2019-09-28 18:27:25,133 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 156358952 Bytes (327155712)
+2019-09-28 18:27:25,149 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (C:/Users/adfil/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 16 ms. number of Sw pack : 5
+2019-09-28 18:27:25,196 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 4.4.0
+2019-09-28 18:27:25,196 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 6.2.0
+2019-09-28 18:27:25,196 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 1.4.1
+2019-09-28 18:27:25,196 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 3.0.0
+2019-09-28 18:27:25,352 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2019-09-28 18:27:25,352 [INFO] PinOutPanel:1367 - setPackage(STM32F103RBTx,LQFP64)
+2019-09-28 18:27:25,773 [INFO] UtilMem:74 - Before build in PCC Used Memory: 169272000 Bytes (327155712)
+2019-09-28 18:27:26,086 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/adfil/.stm32cubemx/plugins/power
+2019-09-28 18:27:26,086 [INFO] UtilMem:74 - After build in PCC Used Memory: 182903488 Bytes (327155712)
+2019-09-28 18:27:26,102 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:27:26,102 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:26,102 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:26,102 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:26,102 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:26,102 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:26,102 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:26,102 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:26,102 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:26,102 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:26,102 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:26,102 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:26,102 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:26,102 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:26,102 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:26,102 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:26,102 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:26,102 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:26,102 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:26,102 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:26,102 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:26,102 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:26,102 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:26,102 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:26,102 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:26,102 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:26,102 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:26,102 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-09-28 18:27:26,117 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:27:26,117 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] toolchainItems.length=====1
+2019-09-28 18:27:26,133 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:27:26,133 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:27:26,195 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:27:26,211 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:27:26,211 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:27:26,211 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:27:26,211 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:27:26,211 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:27:26,211 [INFO] OpenFileManager:289 - Restore cursor
+2019-09-28 18:27:26,227 [INFO] DbMcusXml:106 - Load MCU database from C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/mcu/families.xml
+2019-09-28 18:27:26,227 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:27:26,227 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:27:26,227 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:27:26,227 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:27:26,227 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:27:26,227 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:27:26,273 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:27:26,289 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:27:26,289 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:27:26,289 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:27:26,289 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:27:26,289 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:27:26,289 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:27:26,351 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:27:26,914 [INFO] DbMcusJson:87 - JSON generation date=Mon Sep 23 11:35:45 CEST 2019 (1569231345)
+2019-09-28 18:27:27,820 [INFO] DbMcus:193 - Found 1496 MCUs (1455 are supported by CubeMX, 1455 are visible in CubeMX)
+2019-09-28 18:27:27,820 [INFO] ApiDb:147 - User favorites file not found: C:\Users\adfil/.stm32cubemx/favorites.mcus.txt
+2019-09-28 18:27:27,820 [INFO] DbMcus:205 - Set 0 / 0 favorites MCUs
+2019-09-28 18:31:18,825 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:31:24,648 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:31:24,650 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:31:24,651 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:31:24,654 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:31:24,656 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:31:24,657 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:31:24,667 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:31:24,667 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:31:24,685 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:31:24,686 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:31:24,686 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:31:24,687 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:31:24,701 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:31:24,848 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:31:24,849 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:31:24,852 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:31:24,853 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:31:24,863 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:31:24,864 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:31:24,875 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:33:43,875 [INFO] NvicIntPanel:85 - NVIC parent = javax.swing.JTabbedPane[,0,43,620x330,layout=com.st.microxplorer.stobjectsui.STTabbedPaneUI$TabbedPaneLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=352,maximumSize=,minimumSize=,preferredSize=,haveRegistered=false,tabPlacement=TOP]
+2019-09-28 18:35:56,377 [WARN] IP:1918 - SMBusAnalogFilter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:35:56,392 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:35:56,415 [WARN] IP:1918 - SMBusAnalogFilter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:35:56,424 [WARN] IP:1918 - SMBusAnalogFilter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:35:56,427 [WARN] IP:1918 - SMBusAnalogFilter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:35:56,436 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:35:56,437 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:35:56,439 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:35:56,440 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:35:56,441 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:35:56,443 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:35:56,459 [WARN] IP:1918 - SMBusAnalogFilter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:35:56,460 [WARN] IP:1918 - SMBusAnalogFilter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:35:56,466 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:35:56,496 [WARN] IP:1918 - SMBusAnalogFilter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:35:56,500 [WARN] IP:1918 - SMBusAnalogFilter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:35:56,508 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:35:56,510 [WARN] IP:1918 - SMBusAnalogFilter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:02,009 [WARN] IP:1918 - SMBusAnalogFilter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:02,022 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:36:02,044 [WARN] IP:1918 - SMBusAnalogFilter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:02,053 [WARN] IP:1918 - SMBusAnalogFilter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:02,055 [WARN] IP:1918 - SMBusAnalogFilter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:02,062 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:36:02,063 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:36:02,064 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:36:02,065 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:36:02,066 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:36:02,067 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:36:02,079 [WARN] IP:1918 - SMBusAnalogFilter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:02,080 [WARN] IP:1918 - SMBusAnalogFilter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:02,086 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:36:02,113 [WARN] IP:1918 - SMBusAnalogFilter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:02,117 [WARN] IP:1918 - SMBusAnalogFilter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:02,124 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:36:02,126 [WARN] IP:1918 - SMBusAnalogFilter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:05,496 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:05,496 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:05,509 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:36:05,535 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:05,535 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:05,544 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:05,544 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:05,547 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:05,547 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:05,554 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:36:05,555 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:36:05,557 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:36:05,558 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:36:05,559 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:36:05,560 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:36:05,570 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:05,571 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:05,571 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:05,571 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:05,576 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:36:05,610 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:05,611 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:05,614 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:05,614 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:05,625 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:36:05,628 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:05,628 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:08,496 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:36:12,099 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:36:12,100 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:36:12,101 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:36:12,102 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:36:12,103 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:36:12,104 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:36:12,108 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:12,108 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:12,115 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:12,116 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:12,116 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:12,116 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:12,122 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:36:12,141 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:12,141 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:12,143 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:12,143 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:12,148 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:12,148 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:12,157 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:36:58,025 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:36:58,050 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:58,050 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:58,060 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:36:58,060 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:00,239 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:37:00,241 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:37:00,242 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:37:00,243 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:37:00,244 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:37:00,245 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:37:00,261 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:37:00,268 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:37:02,131 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:37:02,157 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:02,158 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:02,167 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:02,167 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:05,852 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:05,852 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:05,857 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:05,857 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:19,242 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:19,242 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:19,243 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:19,243 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:19,251 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:19,251 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:19,259 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:19,259 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:19,265 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:19,265 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:19,273 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:19,273 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:22,464 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:22,464 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:22,465 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:22,465 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:22,473 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:22,474 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:22,480 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:22,481 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:22,484 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:22,485 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:22,492 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:37:22,493 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:39:52,571 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:39:52,576 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:39:52,577 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:39:52,578 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:39:52,579 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:39:52,581 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:39:52,582 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:39:52,598 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:39:52,603 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:39:53,486 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:39:55,918 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:39:55,919 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:39:55,920 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:39:55,921 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:39:55,922 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:39:55,923 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:39:55,933 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:39:55,933 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:39:55,933 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:39:55,933 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:39:55,939 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:39:55,968 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:39:55,968 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:39:55,978 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:39:55,979 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:39:55,980 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:45:07,781 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:45:13,864 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:45:32,886 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:45:32,888 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:45:32,889 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:45:32,891 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:45:32,892 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:45:32,893 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:45:32,905 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:45:32,916 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:46:12,025 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:46:12,027 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:46:12,028 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:46:12,029 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:46:12,030 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:46:12,031 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:46:12,043 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:46:12,053 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:46:16,222 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:46:16,223 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:46:16,224 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:46:16,225 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:46:16,226 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:46:16,227 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:46:16,257 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:46:16,264 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:46:19,133 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:46:19,134 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:46:19,135 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:46:19,136 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:46:19,137 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:46:19,138 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:46:19,147 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:46:19,155 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:46:29,870 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:46:29,871 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:46:29,872 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:46:29,873 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:46:29,874 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:46:29,875 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:46:29,883 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:46:29,890 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:46:40,359 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:46:40,360 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:46:40,361 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:46:40,363 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:46:40,364 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:46:40,365 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:46:40,373 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:46:40,379 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:46:58,903 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:46:58,905 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:46:58,907 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:46:58,909 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:46:58,911 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:46:58,912 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:46:58,943 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:46:59,001 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:47:08,542 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:47:08,596 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:08,597 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:08,598 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:08,599 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:47:08,600 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:47:08,601 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:08,618 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:47:08,679 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:47:11,543 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:47:11,593 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:11,594 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:11,595 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:11,596 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:47:11,597 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:47:11,598 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:11,616 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:47:11,659 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:47:19,933 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:47:19,978 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:19,979 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:19,980 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:19,982 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:47:19,983 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:47:19,984 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:20,000 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:47:20,039 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:47:23,995 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:47:24,039 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:24,041 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:24,042 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:24,043 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:47:24,044 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:47:24,045 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:24,060 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:47:24,107 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:47:28,907 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:47:34,085 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:34,086 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:34,087 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:34,088 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:47:34,089 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:47:34,090 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:34,102 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:47:34,129 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:47:37,305 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:37,306 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:37,307 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:37,308 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:47:37,309 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:47:37,310 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:37,325 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:47:37,353 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:47:40,757 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:40,758 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:40,759 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:40,760 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:47:40,761 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:47:40,762 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:40,778 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:47:40,813 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:47:44,762 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:44,763 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:44,764 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:44,765 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:47:44,766 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:47:44,767 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:47:44,785 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:47:44,821 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:48:17,514 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:48:20,123 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:48:22,369 [INFO] DbMcusDocs:126 - JSON generation date=Mon Sep 23 11:35:45 CEST 2019 (1569231345)
+2019-09-28 18:48:22,439 [INFO] DbMcusDocs:61 - Found 525 MCUs documents
+2019-09-28 18:48:22,663 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:50:03,715 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 18:50:03,720 [INFO] Gpio:238 - dependency for GPIO [I2C1, RCC, SYS, TIM1, TIM3, USART2]
+2019-09-28 18:50:20,229 [INFO] NvicIntPanel:85 - NVIC parent = com.st.microxplorer.plugins.ip.gpio.gui.DnDTabbedPane[,0,41,620x722,layout=com.st.microxplorer.stobjectsui.STTabbedPaneUI$TabbedPaneLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=352,maximumSize=,minimumSize=,preferredSize=,haveRegistered=false,tabPlacement=TOP]
+2019-09-28 18:50:31,361 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 298436432 Bytes (352321536)
+2019-09-28 18:50:31,364 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:50:31,365 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:50:31,366 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:50:31,367 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:50:31,369 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:50:31,371 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:50:40,020 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 147822544 Bytes (352321536)
+2019-09-28 18:50:40,022 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:50:40,023 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:50:40,024 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:50:40,025 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:50:40,026 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 18:50:40,028 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 18:50:40,364 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: NVIC
+2019-09-28 18:50:40,365 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: USART
+2019-09-28 18:50:40,365 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: TIM1_8F1
+2019-09-28 18:50:40,365 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: TIM1_8F1
+2019-09-28 18:50:40,365 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: SYS
+2019-09-28 18:50:40,365 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: RCC
+2019-09-28 18:50:40,365 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: I2C
+2019-09-28 18:50:40,366 [INFO] CodeGenerator:583 - code generatio: config db path: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\
+2019-09-28 18:50:40,372 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 18:50:40,372 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 18:50:40,628 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\MXTmpFiles\license.tmp_save
+2019-09-28 18:50:40,951 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\MXTmpFiles\license.tmp
+2019-09-28 18:50:41,058 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\MXTmpFiles\gpio.tmp_save
+2019-09-28 18:50:41,150 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\MXTmpFiles\gpio.tmp
+2019-09-28 18:50:41,173 [ERROR] IPConfigManager:1260 - ERROR: the RefConfig I2C_Analogue is not available in your config.xml file
+2019-09-28 18:50:41,173 [ERROR] IPConfigManager:1260 - ERROR: the RefConfig I2C_DigitalFolter is not available in your config.xml file
+2019-09-28 18:50:41,392 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-09-28 18:50:41,393 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for I2C
+2019-09-28 18:50:41,394 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-09-28 18:50:41,395 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-09-28 18:50:41,396 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2019-09-28 18:50:41,396 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-09-28 18:50:41,397 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-09-28 18:50:41,398 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for TIM
+2019-09-28 18:50:41,398 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-09-28 18:50:41,400 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-09-28 18:50:41,401 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2019-09-28 18:50:41,401 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-09-28 18:50:41,403 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2019-09-28 18:50:41,404 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-09-28 18:50:41,415 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Src\stm32f1xx_it.c_save
+2019-09-28 18:50:41,622 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Src\stm32f1xx_it.c
+2019-09-28 18:50:41,635 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Inc\stm32f1xx_it.h_save
+2019-09-28 18:50:41,759 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Inc\stm32f1xx_it.h
+2019-09-28 18:50:41,773 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Src\stm32f1xx_hal_msp.c_save
+2019-09-28 18:50:41,903 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Src\stm32f1xx_hal_msp.c
+2019-09-28 18:50:41,913 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\MXTmpFiles\system.tmp_save
+2019-09-28 18:50:41,971 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\MXTmpFiles\system.tmp
+2019-09-28 18:50:41,984 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Inc\stm32f1xx_hal_conf.h_save
+2019-09-28 18:50:42,052 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Inc\stm32f1xx_hal_conf.h
+2019-09-28 18:50:42,063 [WARN] IPConfigManager:2562 - IP not found : TIM
+2019-09-28 18:50:42,063 [WARN] IPConfigManager:2562 - IP not found : gpio
+2019-09-28 18:50:42,064 [WARN] CodeGenerator:2617 - IP not found : TIM
+2019-09-28 18:50:42,065 [WARN] CodeGenerator:2617 - IP not found : gpio
+2019-09-28 18:50:42,073 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Inc\main.h_save
+2019-09-28 18:50:42,143 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Inc\main.h
+2019-09-28 18:50:42,155 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Src\main.c_save
+2019-09-28 18:50:42,343 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Src\main.c
+2019-09-28 18:50:42,765 [INFO] ProjectBuilder:1570 - Time for Copy HAL[2] : 1mS.
+2019-09-28 18:50:42,774 [INFO] ProjectBuilder:2138 - Project Generator version: 3.4.0
+2019-09-28 18:50:43,152 [INFO] ConfigFileManager:879 - The Die is : DIE410
+2019-09-28 18:50:43,155 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] configName ==Arm Cortex-M3
+2019-09-28 18:50:43,281 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="RAM" access="xrw" start="0x20000000" size="20"
+2019-09-28 18:50:43,282 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="FLASH" access="rx" start="0x8000000" size="128"
+2019-09-28 18:50:43,449 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] namefile= STM32CubeIDE
+2019-09-28 18:50:43,451 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============generate
+2019-09-28 18:50:45,744 [INFO] ProjectBuilder:2232 - Time for Generating toolchain IDE Files: 2970mS.
+2019-09-28 18:50:45,745 [INFO] ProjectBuilder:1461 - Time for Copy CMSIS : 0mS.
+2019-09-28 18:50:45,748 [INFO] ProjectBuilder:1461 - Time for Copy CMSIS : 0mS.
+2019-09-28 19:01:01,516 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 19:01:05,193 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 19:01:06,891 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 19:13:29,280 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 19:13:29,333 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:13:29,335 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:13:29,336 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:13:29,337 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 19:13:29,338 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 19:13:29,339 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:13:29,386 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 19:13:29,386 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 19:13:29,387 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 19:13:29,387 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 19:13:29,394 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 19:13:45,362 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 19:13:45,405 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:13:45,406 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:13:45,407 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:13:45,408 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 19:13:45,409 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 19:13:45,410 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:13:45,438 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 19:13:45,438 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 19:13:45,439 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 19:13:45,439 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 19:13:45,445 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 19:13:58,672 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 19:13:58,712 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:13:58,713 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:13:58,714 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:13:58,715 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 19:13:58,716 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 19:13:58,717 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:15:10,970 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 19:15:11,027 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:15:11,029 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:15:11,032 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:15:11,035 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 19:15:11,037 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 19:15:11,038 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:15:11,073 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 19:15:11,074 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 19:15:11,074 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 19:15:11,074 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 19:15:11,078 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 19:15:18,001 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 19:15:18,039 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:15:18,040 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:15:18,042 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:15:18,043 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 19:15:18,044 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 19:15:18,045 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:15:18,073 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 19:15:18,073 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 19:15:18,073 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 19:15:18,073 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 19:15:18,077 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 19:15:22,305 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 19:15:22,307 [INFO] Gpio:238 - dependency for GPIO [I2C1, RCC, SYS, TIM1, TIM3, USART2]
+2019-09-28 19:15:49,859 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 19:15:49,861 [INFO] Gpio:238 - dependency for GPIO [I2C1, RCC, SYS, TIM1, TIM3, USART2]
+2019-09-28 19:15:51,138 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 19:15:51,142 [INFO] Gpio:238 - dependency for GPIO [I2C1, RCC, SYS, TIM1, TIM3, USART2]
+2019-09-28 19:15:51,398 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 19:15:51,401 [INFO] Gpio:238 - dependency for GPIO [I2C1, RCC, SYS, TIM1, TIM3, USART2]
+2019-09-28 19:15:52,282 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 19:15:52,287 [INFO] Gpio:238 - dependency for GPIO [I2C1, RCC, SYS, TIM1, TIM3, USART2]
+2019-09-28 19:16:01,523 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 19:16:43,595 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 19:16:43,600 [INFO] Gpio:238 - dependency for GPIO [I2C1, RCC, SYS, TIM1, TIM3, USART2]
+2019-09-28 19:20:37,924 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 19:20:37,927 [INFO] Gpio:238 - dependency for GPIO [I2C1, RCC, SYS, TIM1, TIM3, USART2]
+2019-09-28 19:20:37,945 [INFO] NvicIntPanel:85 - NVIC parent = com.st.microxplorer.plugins.ip.gpio.gui.DnDTabbedPane[,0,41,715x722,invalid,layout=com.st.microxplorer.stobjectsui.STTabbedPaneUI$TabbedPaneLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=352,maximumSize=,minimumSize=,preferredSize=,haveRegistered=false,tabPlacement=TOP]
+2019-09-28 19:20:37,951 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:20:37,953 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:20:37,954 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:20:37,955 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 19:20:37,956 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 19:20:37,957 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:20:37,985 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 19:20:37,985 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 19:20:37,986 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 19:20:37,986 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 19:20:37,988 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 19:20:37,991 [INFO] Gpio:238 - dependency for GPIO [I2C1, RCC, SYS, TIM1, TIM3, USART2]
+2019-09-28 19:20:38,014 [INFO] NvicIntPanel:85 - NVIC parent = com.st.microxplorer.plugins.ip.gpio.gui.DnDTabbedPane[,0,41,715x722,invalid,layout=com.st.microxplorer.stobjectsui.STTabbedPaneUI$TabbedPaneLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=352,maximumSize=,minimumSize=,preferredSize=,haveRegistered=false,tabPlacement=TOP]
+2019-09-28 19:21:10,937 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:21:10,939 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:21:10,940 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:21:10,942 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 19:21:10,943 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 19:21:10,944 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:21:46,760 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 358029864 Bytes (896532480)
+2019-09-28 19:21:46,762 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:21:46,763 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:21:46,764 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:21:46,765 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 19:21:46,765 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 19:21:46,766 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:21:48,532 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 367550896 Bytes (896532480)
+2019-09-28 19:21:48,534 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:21:48,537 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:21:48,538 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:21:48,540 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 19:21:48,541 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 19:21:48,541 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:21:48,645 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: NVIC
+2019-09-28 19:21:48,645 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: USART
+2019-09-28 19:21:48,645 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: TIM1_8F1
+2019-09-28 19:21:48,645 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: TIM1_8F1
+2019-09-28 19:21:48,646 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: SYS
+2019-09-28 19:21:48,646 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: RCC
+2019-09-28 19:21:48,646 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: I2C
+2019-09-28 19:21:48,647 [INFO] CodeGenerator:583 - code generatio: config db path: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\
+2019-09-28 19:21:48,648 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 19:21:48,648 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 19:21:48,762 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\MXTmpFiles\license.tmp_save
+2019-09-28 19:21:48,832 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\MXTmpFiles\license.tmp
+2019-09-28 19:21:48,858 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\MXTmpFiles\gpio.tmp_save
+2019-09-28 19:21:48,936 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\MXTmpFiles\gpio.tmp
+2019-09-28 19:21:48,942 [ERROR] IPConfigManager:1260 - ERROR: the RefConfig I2C_Analogue is not available in your config.xml file
+2019-09-28 19:21:48,942 [ERROR] IPConfigManager:1260 - ERROR: the RefConfig I2C_DigitalFolter is not available in your config.xml file
+2019-09-28 19:21:49,025 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-09-28 19:21:49,026 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for I2C
+2019-09-28 19:21:49,026 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-09-28 19:21:49,028 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-09-28 19:21:49,029 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2019-09-28 19:21:49,029 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-09-28 19:21:49,030 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-09-28 19:21:49,031 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for TIM
+2019-09-28 19:21:49,031 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-09-28 19:21:49,033 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-09-28 19:21:49,034 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2019-09-28 19:21:49,035 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-09-28 19:21:49,037 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2019-09-28 19:21:49,037 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-09-28 19:21:49,046 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Src\stm32f1xx_it.c_save
+2019-09-28 19:21:49,130 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Src\stm32f1xx_it.c
+2019-09-28 19:21:49,139 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Inc\stm32f1xx_it.h_save
+2019-09-28 19:21:49,198 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Inc\stm32f1xx_it.h
+2019-09-28 19:21:49,213 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Src\stm32f1xx_hal_msp.c_save
+2019-09-28 19:21:49,334 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Src\stm32f1xx_hal_msp.c
+2019-09-28 19:21:49,344 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\MXTmpFiles\system.tmp_save
+2019-09-28 19:21:49,399 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\MXTmpFiles\system.tmp
+2019-09-28 19:21:49,409 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Inc\stm32f1xx_hal_conf.h_save
+2019-09-28 19:21:49,472 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Inc\stm32f1xx_hal_conf.h
+2019-09-28 19:21:49,478 [WARN] IPConfigManager:2562 - IP not found : TIM
+2019-09-28 19:21:49,479 [WARN] IPConfigManager:2562 - IP not found : gpio
+2019-09-28 19:21:49,479 [WARN] CodeGenerator:2617 - IP not found : TIM
+2019-09-28 19:21:49,479 [WARN] CodeGenerator:2617 - IP not found : gpio
+2019-09-28 19:21:49,486 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Inc\main.h_save
+2019-09-28 19:21:49,544 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Inc\main.h
+2019-09-28 19:21:49,552 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Src\main.c_save
+2019-09-28 19:21:49,656 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Src\main.c
+2019-09-28 19:21:50,036 [INFO] ProjectBuilder:1570 - Time for Copy HAL[2] : 1mS.
+2019-09-28 19:21:50,037 [INFO] ProjectBuilder:2138 - Project Generator version: 3.4.0
+2019-09-28 19:21:50,202 [INFO] ConfigFileManager:879 - The Die is : DIE410
+2019-09-28 19:21:50,204 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] configName ==Arm Cortex-M3
+2019-09-28 19:21:50,441 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="RAM" access="xrw" start="0x20000000" size="20"
+2019-09-28 19:21:50,442 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="FLASH" access="rx" start="0x8000000" size="128"
+2019-09-28 19:21:50,560 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] namefile= STM32CubeIDE
+2019-09-28 19:21:50,561 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============update
+2019-09-28 19:21:51,321 [INFO] ProjectBuilder:2232 - Time for Generating toolchain IDE Files: 1284mS.
+2019-09-28 19:21:51,322 [INFO] ProjectBuilder:1461 - Time for Copy CMSIS : 0mS.
+2019-09-28 19:21:51,325 [INFO] ProjectBuilder:1461 - Time for Copy CMSIS : 0mS.
+2019-09-28 19:22:31,856 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-09-28 19:22:47,547 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 595748952 Bytes (922746880)
+2019-09-28 19:22:47,551 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:22:47,552 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:22:47,553 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:22:47,556 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 19:22:47,558 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 19:22:47,559 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:22:48,719 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 604659808 Bytes (922746880)
+2019-09-28 19:22:48,724 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:22:48,726 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:22:48,728 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:22:48,730 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 19:22:48,732 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-09-28 19:22:48,733 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-09-28 19:22:48,841 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: NVIC
+2019-09-28 19:22:48,841 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: USART
+2019-09-28 19:22:48,842 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: TIM1_8F1
+2019-09-28 19:22:48,842 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: TIM1_8F1
+2019-09-28 19:22:48,842 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: SYS
+2019-09-28 19:22:48,842 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: RCC
+2019-09-28 19:22:48,842 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: I2C
+2019-09-28 19:22:48,843 [INFO] CodeGenerator:583 - code generatio: config db path: C:\ST\STM32CubeIDE_1.0.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\
+2019-09-28 19:22:48,845 [WARN] IP:1918 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2019-09-28 19:22:48,845 [WARN] IP:1918 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2019-09-28 19:22:49,012 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\MXTmpFiles\license.tmp_save
+2019-09-28 19:22:49,055 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\MXTmpFiles\license.tmp
+2019-09-28 19:22:49,071 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\MXTmpFiles\gpio.tmp_save
+2019-09-28 19:22:49,116 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\MXTmpFiles\gpio.tmp
+2019-09-28 19:22:49,121 [ERROR] IPConfigManager:1260 - ERROR: the RefConfig I2C_Analogue is not available in your config.xml file
+2019-09-28 19:22:49,121 [ERROR] IPConfigManager:1260 - ERROR: the RefConfig I2C_DigitalFolter is not available in your config.xml file
+2019-09-28 19:22:49,202 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-09-28 19:22:49,204 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for I2C
+2019-09-28 19:22:49,204 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-09-28 19:22:49,206 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-09-28 19:22:49,207 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2019-09-28 19:22:49,208 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-09-28 19:22:49,209 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-09-28 19:22:49,211 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for TIM
+2019-09-28 19:22:49,211 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-09-28 19:22:49,213 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-09-28 19:22:49,215 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2019-09-28 19:22:49,216 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-09-28 19:22:49,218 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2019-09-28 19:22:49,219 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-09-28 19:22:49,230 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Src\stm32f1xx_it.c_save
+2019-09-28 19:22:49,321 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Src\stm32f1xx_it.c
+2019-09-28 19:22:49,330 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Inc\stm32f1xx_it.h_save
+2019-09-28 19:22:49,384 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Inc\stm32f1xx_it.h
+2019-09-28 19:22:49,394 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Src\stm32f1xx_hal_msp.c_save
+2019-09-28 19:22:49,486 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Src\stm32f1xx_hal_msp.c
+2019-09-28 19:22:49,494 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\MXTmpFiles\system.tmp_save
+2019-09-28 19:22:49,542 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\MXTmpFiles\system.tmp
+2019-09-28 19:22:49,550 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Inc\stm32f1xx_hal_conf.h_save
+2019-09-28 19:22:49,618 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Inc\stm32f1xx_hal_conf.h
+2019-09-28 19:22:49,627 [WARN] IPConfigManager:2562 - IP not found : TIM
+2019-09-28 19:22:49,628 [WARN] IPConfigManager:2562 - IP not found : gpio
+2019-09-28 19:22:49,628 [WARN] CodeGenerator:2617 - IP not found : TIM
+2019-09-28 19:22:49,629 [WARN] CodeGenerator:2617 - IP not found : gpio
+2019-09-28 19:22:49,636 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Inc\main.h_save
+2019-09-28 19:22:49,697 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Inc\main.h
+2019-09-28 19:22:49,706 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Src\main.c_save
+2019-09-28 19:22:49,798 [INFO] CodeEngine:208 - Generated code: C:\Users\adfil\Documents\Michal\STM32\Prototyp1.0\Src\main.c
+2019-09-28 19:22:50,190 [INFO] ProjectBuilder:1570 - Time for Copy HAL[2] : 1mS.
+2019-09-28 19:22:50,191 [INFO] ProjectBuilder:2138 - Project Generator version: 3.4.0
+2019-09-28 19:22:50,355 [INFO] ConfigFileManager:879 - The Die is : DIE410
+2019-09-28 19:22:50,357 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] configName ==Arm Cortex-M3
+2019-09-28 19:22:50,432 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="RAM" access="xrw" start="0x20000000" size="20"
+2019-09-28 19:22:50,434 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="FLASH" access="rx" start="0x8000000" size="128"
+2019-09-28 19:22:50,531 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] namefile= STM32CubeIDE
+2019-09-28 19:22:50,532 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============update
+2019-09-28 19:22:51,263 [INFO] ProjectBuilder:2232 - Time for Generating toolchain IDE Files: 1072mS.
+2019-09-28 19:22:51,264 [INFO] ProjectBuilder:1461 - Time for Copy CMSIS : 0mS.
+2019-09-28 19:22:51,268 [INFO] ProjectBuilder:1461 - Time for Copy CMSIS : 0mS.
+2019-09-28 19:54:56,265 [INFO] BlockDiagram:1818 - stop enableDisableButtons
