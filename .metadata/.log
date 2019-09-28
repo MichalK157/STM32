@@ -1,0 +1,45 @@
+!SESSION 2019-09-28 14:24:48.223 -----------------------------------------------
+eclipse.buildId=Version 1.0.2
+java.version=1.8.0_202
+java.vendor=AdoptOpenJdk
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2019-09-28 14:35:04.011
+!MESSAGE Log4j initialized with config file C:\Users\adfil\Documents\Michal\STM32\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2019-09-28 14:35:08.471
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.net 4 0 2019-09-28 14:35:11.778
+!MESSAGE WinHttp.DetectAutoProxyConfigUrl for wpad failed with error 'Nie mo¿na odnaleæ adres URL autokonfiguracji proxy.' #12180.
+
+!ENTRY org.eclipse.cdt.core 1 0 2019-09-28 14:43:17.145
+!MESSAGE Indexed 'Prototyp1.0' (0 sources, 0 headers) in 0.005 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 4 4 2019-09-28 14:43:17.333
+!MESSAGE Type or version is empty: ; 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 2 2 2019-09-28 14:43:17.333
+!MESSAGE Falling back to default toolchain
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 4 4 2019-09-28 14:43:17.343
+!MESSAGE Type or version is empty: ; 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 2 2 2019-09-28 14:43:17.344
+!MESSAGE Falling back to default toolchain
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 4 4 2019-09-28 14:43:17.344
+!MESSAGE Type or version is empty: ; 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 2 2 2019-09-28 14:43:17.344
+!MESSAGE Falling back to default toolchain
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 4 4 2019-09-28 14:43:17.344
+!MESSAGE Type or version is empty: ; 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 2 2 2019-09-28 14:43:17.344
+!MESSAGE Falling back to default toolchain
+
+!ENTRY org.eclipse.cdt.core 1 0 2019-09-28 14:43:25.157
+!MESSAGE Indexed 'Prototyp1.0' (18 sources, 23 headers) in 2.76 sec: 1,924 declarations; 11,672 references; 4 unresolved inclusions; 47 syntax errors; 1,538 unresolved names (10%)
